@@ -1,6 +1,6 @@
 # refreshpath for ruTorrent
 
-Adds a toolbar button that refreshes the `Chemin` / `Save path` column for the selected torrents without opening the datadir popup.
+Adds a toolbar button that refreshes the `Path` / `Save path` column for the selected torrents without opening the datadir popup.
 
 ## Install
 
@@ -22,4 +22,4 @@ enabled = yes
 
 ## Usage
 
-Select one or more torrents, then click the toolbar button titled **Actualiser la colonne Chemin**.
+Select one or more torrents, then click the toolbar button titled **Refresh Path column**.
