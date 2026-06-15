@@ -1,0 +1,4 @@
+plugin.description: Refresh selected torrents save path column without opening the datadir dialog.
+plugin.author: ChatGPT
+plugin.version: 1.0
+rtorrent.remote: error
